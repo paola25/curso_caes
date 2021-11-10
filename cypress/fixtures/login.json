@@ -1,0 +1,17 @@
+
+{
+  "correoRegistroExitoso1": "michpao25@gmail.com",
+  "correoRegistroExitoso2": "michpao2513@gmail.com",
+  "correoLoginFallido": "peadasdss@hotmail.com",
+  "nombre": "Pepito",
+  "apellido": "Cifuentes",
+  "clave": "Pepito123",
+  "direccion": "cualquiera",
+  "ciudad": "Pensilvania",
+  "telefono": "3192802167",
+  "zip": "00000",
+  "zipFallido": "000000",
+  "estado": "alabama",
+  "mensajeZipIncorrecto": "it must follow this format .00000",
+  "mensajeZipIncorrectologin": "Credenciales no validas"
+}
